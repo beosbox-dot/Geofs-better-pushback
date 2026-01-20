@@ -1,5 +1,5 @@
 # Geofs-better-pushback
-# CREADIT TO TOTALLY ELON MUSK ( THE ONE CREATED THE MAIN CODE ) 
+# CREDIT TO TOTALLY ELON MUSK ( THE ONE CREATED THE MAIN CODE ) 
 I only upgraded it. Please give a thanks to him not me. 
 Information:
 - Redesign UI Panel
