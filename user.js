@@ -165,8 +165,6 @@
             d.getElementById('pb-reverse').onclick = () => { sI.value = 20; sI.oninput(); };
             d.getElementById('closePB').onclick = () => panelElement.style.display = 'none';
         }
-
-        // --- GIỮ NGUYÊN HOÀN TOÀN LOGIC CÒN LẠI ---
         pushback[_0x76c3fa(0x14c)] = ![], pushback['checkAircraft'] = function(_0x2ab80f) {
             return pushbackInfo[_0x2ab80f] ? !![] : ![];
         }, pushback[_0x76c3fa(0x128)] = function() {
