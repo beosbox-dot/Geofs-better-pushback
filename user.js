@@ -2,7 +2,7 @@
 // @name         Geo-FS Pushback Remake
 // @version      2.1
 // @description  Professional MSFS-inspired Pushback with Realistic Ground Crew Voiceovers
-// @author       Nicola Zurzolo & Gemini (Enhanced)
+// @author       SirJackie
 // @match        http://*/geofs.php*
 // @match        https://*/geofs.php*
 // @run-at       document-end
